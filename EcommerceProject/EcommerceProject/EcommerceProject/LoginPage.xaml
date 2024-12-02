@@ -1,0 +1,21 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EcommerceProject.LoginPage">
+    <ContentPage.Content>
+        <StackLayout Padding="30">
+            <Entry Placeholder="Email" x:Name="EmailEntry" Keyboard="Email" />
+            <Entry Placeholder="Password" x:Name="PasswordEntry" IsPassword="True" />
+            <Button Text="Login" Clicked="LoginButton_Clicked" />
+
+            <!-- Label with TapGestureRecognizer for navigation -->
+            <Label Text="If you don't have an account? Register now!"
+                   HorizontalOptions="Center"
+                   TextColor="Blue">
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="OnRegisterTapped" />
+                </Label.GestureRecognizers>
+            </Label>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

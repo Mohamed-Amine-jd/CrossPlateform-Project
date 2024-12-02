@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EcommerceProject.ProductDetailsPage">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="20">
+                <!-- Product Image -->
+                <Image Source="{Binding Image}" Aspect="AspectFill" HeightRequest="200" />
+
+                <!-- Product Title -->
+                <Label Text="{Binding Title}" FontSize="24" FontAttributes="Bold" HorizontalOptions="Center" />
+
+                <!-- Product Price -->
+                <Label Text="{Binding Price, StringFormat='{0:C2}'}" TextColor="Green" FontSize="18" HorizontalOptions="Center" />
+
+                <!-- Product Description -->
+                <Label Text="{Binding Description}" FontSize="16" Margin="0,10" />
+
+                <!-- Product Quantity -->
+                <Label Text="Available Quantity:" FontAttributes="Bold" />
+                <Label Text="{Binding Qty}" />
+
+                <!-- Product Category -->
+                <Label Text="Category:" FontAttributes="Bold" />
+                <Label Text="{Binding Category}" />
+
+                <!-- Add to Cart Button -->
+                <Button Text="Add to Cart" BackgroundColor="Green" TextColor="White" Clicked="OnAddToCartClicked" />
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

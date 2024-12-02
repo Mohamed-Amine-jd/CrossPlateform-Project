@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            x:Class="EcommerceProject.adminTabbedPage"
+            BarBackgroundColor="LightGray"
+            BarTextColor="Black"
+            SelectedTabColor="DarkBlue"
+            UnselectedTabColor="Gray">
+
+    <ContentPage Title="Home" IconImageSource="home_icon.png">
+        <StackLayout Padding="20">
+            <Label Text="All Products" FontSize="Large" />
+
+            <CollectionView x:Name="ProductCollectionView">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <StackLayout Orientation="Horizontal" Padding="10">
+                            <!-- Image Section -->
+                            <Image Source="{Binding Image}" WidthRequest="50" HeightRequest="50" />
+
+                            <!-- Product Info Section -->
+                            <StackLayout Padding="10">
+                                <Label Text="{Binding Title}" FontSize="Medium" />
+                                <Label Text="{Binding Price, StringFormat='{0:C}'}" FontSize="Small" />
+                                <Label Text="{Binding Qty}" FontSize="Small" />
+                            </StackLayout>
+
+                            <!-- Delete Button Section -->
+                            <StackLayout VerticalOptions="Center" HorizontalOptions="EndAndExpand">
+                                <Button Text="Delete"
+                                        BackgroundColor="Red"
+                                        TextColor="White"
+                                        WidthRequest="80"  
+                                    HeightRequest="34"
+                                        Clicked="DeleteProductButton_Clicked"/>
+
+                                <Button Text="Update"
+                                        BackgroundColor="Blue"
+                                        TextColor="White"
+                                        WidthRequest="80"
+                                        HeightRequest="34"
+                                        Clicked="UpdateProductButton_Clicked"/>
+                            </StackLayout>
+                        </StackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+
+        </StackLayout>
+    </ContentPage>
+    <!-- Manage Users Tab -->
+    <ContentPage Title="Manage Users" IconImageSource="users_icon.png">
+        <StackLayout Padding="20">
+            <Label Text="All Users" FontSize="Large" />
+
+            <!-- List of users -->
+            <CollectionView x:Name="UsersCollectionView">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <StackLayout Orientation="Horizontal" Padding="10">
+                            <StackLayout Padding="10">
+                                <Label Text="{Binding Name}" FontSize="Medium" />
+                                <Label Text="{Binding Email}" FontSize="Small" />
+                            </StackLayout>
+                            <StackLayout VerticalOptions="Center" HorizontalOptions="EndAndExpand">
+                                <Button Text="Delete"
+                                    BackgroundColor="Red"
+                                    TextColor="White"
+                                    WidthRequest="80"
+                                    HeightRequest="34"
+                                    Clicked="DeleteUserButton_Clicked"/>
+                            </StackLayout>
+                        </StackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </StackLayout>
+    </ContentPage>
+
+
+    <!-- Add Product Page -->
+    <ContentPage Title="Add Product" IconImageSource="add_icon.png">
+        <StackLayout Padding="20">
+            <Label Text="Add New Product" FontSize="Large" />
+
+            <!-- Product Title -->
+            <Entry x:Name="TitleEntry" Placeholder="Product Title" />
+
+            <!-- Product Description -->
+            <Entry x:Name="DescriptionEntry" Placeholder="Description" />
+
+            <!-- Product Image URL -->
+            <Entry x:Name="ImageEntry" Placeholder="Image URL" />
+
+            <!-- Product Price -->
+            <Entry x:Name="PriceEntry" Placeholder="Price" Keyboard="Numeric" />
+
+            <!-- Product Quantity -->
+            <Entry x:Name="QtyEntry" Placeholder="Quantity" Keyboard="Numeric" />
+
+            <!-- Product Category Picker -->
+            <Picker x:Name="CategoryPicker">
+                <Picker.Items>
+                    <x:String>Clothes</x:String>
+                    <x:String>Tech</x:String>
+                    <x:String>Books</x:String>
+                </Picker.Items>
+            </Picker>
+
+            <!-- Submit Button -->
+            <Button Text="Add Product" Clicked="AddProductButton_Clicked" />
+        </StackLayout>
+    </ContentPage>
+
+
+    <ContentPage Title="Commands" IconImageSource="command_icon.png">
+        <StackLayout Padding="20">
+            <Label Text="All Commands" FontSize="Large" />
+            <CollectionView x:Name="CommandsCollectionView">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Frame Padding="10" Margin="5" BorderColor="Gray" HasShadow="True">
+                            <StackLayout>
+                                <!-- Display Command Details -->
+                                <Label Text="Command Details:" FontSize="Medium" FontAttributes="Bold" />
+                                <Label Text="{Binding userId}" FontSize="Small" />
+                                <Label Text="{Binding amount}" FontSize="Small" />
+                                <Label Text="{Binding address}" FontSize="Small" />
+                                <Label Text="{Binding status}" FontSize="Small" TextColor="Green" />
+
+                                <!-- Display Products for this Command -->
+                                <Label Text="Products:" FontSize="Medium" FontAttributes="Bold" Margin="0,10,0,0" />
+                                <CollectionView ItemsSource="{Binding products}" Margin="10,0,0,0">
+                                    <CollectionView.ItemTemplate>
+                                        <DataTemplate>
+                                            <StackLayout Orientation="Horizontal" Padding="5">
+                                                <!-- Display individual product details -->
+                                                <Label Text="{Binding id}" FontSize="Small" />
+                                                <Label Text="{Binding productName}" FontSize="Small" Margin="10,0,0,0" />
+                                                <Label Text="{Binding quantity}" FontSize="Small" Margin="10,0,0,0" />
+                                            </StackLayout>
+                                        </DataTemplate>
+                                    </CollectionView.ItemTemplate>
+                                </CollectionView>
+                            </StackLayout>
+                        </Frame>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+
+
+        </StackLayout>
+    </ContentPage>
+
+    <!-- Logout Tab -->
+    <ContentPage Title="Logout" IconImageSource="logout_icon.png">
+        <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+            <Button Text="Logout" BackgroundColor="Red" TextColor="White" Clicked="OnLogoutClicked" />
+        </StackLayout>
+    </ContentPage>
+
+</TabbedPage>

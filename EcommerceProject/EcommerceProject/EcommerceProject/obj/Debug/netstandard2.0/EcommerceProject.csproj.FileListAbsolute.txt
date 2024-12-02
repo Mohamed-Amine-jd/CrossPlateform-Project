@@ -1,0 +1,135 @@
+C:\Users\Med Amine\source\repos\EcommerceProject\EcommerceProject\bin\Debug\netstandard2.0\EcommerceProject.deps.json
+C:\Users\Med Amine\source\repos\EcommerceProject\EcommerceProject\bin\Debug\netstandard2.0\EcommerceProject.dll
+C:\Users\Med Amine\source\repos\EcommerceProject\EcommerceProject\bin\Debug\netstandard2.0\ref\EcommerceProject.dll
+C:\Users\Med Amine\source\repos\EcommerceProject\EcommerceProject\bin\Debug\netstandard2.0\EcommerceProject.pdb
+C:\Users\Med Amine\source\repos\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\EcommerceProject.csproj.AssemblyReference.cache
+C:\Users\Med Amine\source\repos\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\EcommerceProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Med Amine\source\repos\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Med Amine\source\repos\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Med Amine\source\repos\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Med Amine\source\repos\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\Med Amine\source\repos\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\Med Amine\source\repos\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Med Amine\source\repos\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\Med Amine\source\repos\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\EcommerceProject.AssemblyInfoInputs.cache
+C:\Users\Med Amine\source\repos\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\EcommerceProject.AssemblyInfo.cs
+C:\Users\Med Amine\source\repos\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\EcommerceProject.csproj.CoreCompileInputs.cache
+C:\Users\Med Amine\source\repos\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Med Amine\source\repos\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\EcommerceProject.dll
+C:\Users\Med Amine\source\repos\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\ref\EcommerceProject.dll
+C:\Users\Med Amine\source\repos\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\EcommerceProject.pdb
+C:\Users\Med Amine\source\repos\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Users\Med Amine\source\repos\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\RegisterPage.xaml.g.cs
+C:\Users\Med Amine\source\repos\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+C:\Users\Med Amine\source\repos\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\admindashboard.xaml.g.cs
+C:\Users\Med Amine\source\repos\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\adminTabbedPage.xaml.g.cs
+C:\Users\Med Amine\source\repos\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\ProductDetailsPage.xaml.g.cs
+D:\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\EcommerceProject.csproj.AssemblyReference.cache
+D:\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\EcommerceProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\admindashboard.xaml.g.cs
+D:\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\adminTabbedPage.xaml.g.cs
+D:\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+D:\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+D:\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\ProductDetailsPage.xaml.g.cs
+D:\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\RegisterPage.xaml.g.cs
+D:\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+D:\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+D:\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+D:\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+D:\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\EcommerceProject.AssemblyInfoInputs.cache
+D:\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\EcommerceProject.AssemblyInfo.cs
+D:\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\EcommerceProject.csproj.CoreCompileInputs.cache
+D:\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\EcommerceProject.dll
+D:\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\ref\EcommerceProject.dll
+D:\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\EcommerceProject.pdb
+D:\EcommerceProject\EcommerceProject\bin\Debug\netstandard2.0\EcommerceProject.deps.json
+D:\EcommerceProject\EcommerceProject\bin\Debug\netstandard2.0\EcommerceProject.dll
+D:\EcommerceProject\EcommerceProject\bin\Debug\netstandard2.0\ref\EcommerceProject.dll
+D:\EcommerceProject\EcommerceProject\bin\Debug\netstandard2.0\EcommerceProject.pdb
+D:\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\XamlC.stamp
+D:\xamarin\EcommerceProject\EcommerceProject\bin\Debug\netstandard2.0\EcommerceProject.deps.json
+D:\xamarin\EcommerceProject\EcommerceProject\bin\Debug\netstandard2.0\EcommerceProject.dll
+D:\xamarin\EcommerceProject\EcommerceProject\bin\Debug\netstandard2.0\ref\EcommerceProject.dll
+D:\xamarin\EcommerceProject\EcommerceProject\bin\Debug\netstandard2.0\EcommerceProject.pdb
+D:\xamarin\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\EcommerceProject.csproj.AssemblyReference.cache
+D:\xamarin\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\EcommerceProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\xamarin\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\admindashboard.xaml.g.cs
+D:\xamarin\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\adminTabbedPage.xaml.g.cs
+D:\xamarin\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\xamarin\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\xamarin\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+D:\xamarin\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+D:\xamarin\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\ProductDetailsPage.xaml.g.cs
+D:\xamarin\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\RegisterPage.xaml.g.cs
+D:\xamarin\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\xamarin\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+D:\xamarin\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+D:\xamarin\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+D:\xamarin\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+D:\xamarin\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\EcommerceProject.AssemblyInfoInputs.cache
+D:\xamarin\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\EcommerceProject.AssemblyInfo.cs
+D:\xamarin\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\EcommerceProject.csproj.CoreCompileInputs.cache
+D:\xamarin\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\XamlC.stamp
+D:\xamarin\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\EcommerceProject.dll
+D:\xamarin\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\ref\EcommerceProject.dll
+D:\xamarin\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\EcommerceProject.pdb
+C:\Users\GIGABYTE-INFOTEC\Desktop\crossProject\xamarin_Project\EcommerceProject\EcommerceProject\bin\Debug\netstandard2.0\EcommerceProject.deps.json
+C:\Users\GIGABYTE-INFOTEC\Desktop\crossProject\xamarin_Project\EcommerceProject\EcommerceProject\bin\Debug\netstandard2.0\EcommerceProject.dll
+C:\Users\GIGABYTE-INFOTEC\Desktop\crossProject\xamarin_Project\EcommerceProject\EcommerceProject\bin\Debug\netstandard2.0\EcommerceProject.pdb
+C:\Users\GIGABYTE-INFOTEC\Desktop\crossProject\xamarin_Project\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\EcommerceProject.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE-INFOTEC\Desktop\crossProject\xamarin_Project\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\EcommerceProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIGABYTE-INFOTEC\Desktop\crossProject\xamarin_Project\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\admindashboard.xaml.g.cs
+C:\Users\GIGABYTE-INFOTEC\Desktop\crossProject\xamarin_Project\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\adminTabbedPage.xaml.g.cs
+C:\Users\GIGABYTE-INFOTEC\Desktop\crossProject\xamarin_Project\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\GIGABYTE-INFOTEC\Desktop\crossProject\xamarin_Project\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\GIGABYTE-INFOTEC\Desktop\crossProject\xamarin_Project\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+C:\Users\GIGABYTE-INFOTEC\Desktop\crossProject\xamarin_Project\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Users\GIGABYTE-INFOTEC\Desktop\crossProject\xamarin_Project\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\ProductDetailsPage.xaml.g.cs
+C:\Users\GIGABYTE-INFOTEC\Desktop\crossProject\xamarin_Project\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\RegisterPage.xaml.g.cs
+C:\Users\GIGABYTE-INFOTEC\Desktop\crossProject\xamarin_Project\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\GIGABYTE-INFOTEC\Desktop\crossProject\xamarin_Project\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\GIGABYTE-INFOTEC\Desktop\crossProject\xamarin_Project\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\GIGABYTE-INFOTEC\Desktop\crossProject\xamarin_Project\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\GIGABYTE-INFOTEC\Desktop\crossProject\xamarin_Project\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\GIGABYTE-INFOTEC\Desktop\crossProject\xamarin_Project\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\EcommerceProject.AssemblyInfoInputs.cache
+C:\Users\GIGABYTE-INFOTEC\Desktop\crossProject\xamarin_Project\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\EcommerceProject.AssemblyInfo.cs
+C:\Users\GIGABYTE-INFOTEC\Desktop\crossProject\xamarin_Project\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\EcommerceProject.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE-INFOTEC\Desktop\crossProject\xamarin_Project\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\EcommerceProject.sourcelink.json
+C:\Users\GIGABYTE-INFOTEC\Desktop\crossProject\xamarin_Project\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\GIGABYTE-INFOTEC\Desktop\crossProject\xamarin_Project\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\EcommerceProject.dll
+C:\Users\GIGABYTE-INFOTEC\Desktop\crossProject\xamarin_Project\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\refint\EcommerceProject.dll
+C:\Users\GIGABYTE-INFOTEC\Desktop\crossProject\xamarin_Project\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\EcommerceProject.pdb
+C:\Users\GIGABYTE-INFOTEC\Desktop\crossProject\xamarin_Project\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\ref\EcommerceProject.dll
+C:\Users\GIGABYTE-INFOTEC\Desktop\crossProject\xamarin_Project\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\CartPage.xaml.g.cs
+C:\Users\GIGABYTE-INFOTEC\Desktop\crossProject\xamarin_Project\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\Services\CartService.xaml.g.cs
+C:\Users\Med Amine\Downloads\EcommerceProject\EcommerceProject\EcommerceProject\bin\Debug\netstandard2.0\EcommerceProject.deps.json
+C:\Users\Med Amine\Downloads\EcommerceProject\EcommerceProject\EcommerceProject\bin\Debug\netstandard2.0\EcommerceProject.dll
+C:\Users\Med Amine\Downloads\EcommerceProject\EcommerceProject\EcommerceProject\bin\Debug\netstandard2.0\ref\EcommerceProject.dll
+C:\Users\Med Amine\Downloads\EcommerceProject\EcommerceProject\EcommerceProject\bin\Debug\netstandard2.0\EcommerceProject.pdb
+C:\Users\Med Amine\Downloads\EcommerceProject\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\EcommerceProject.csproj.AssemblyReference.cache
+C:\Users\Med Amine\Downloads\EcommerceProject\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\EcommerceProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Med Amine\Downloads\EcommerceProject\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\admindashboard.xaml.g.cs
+C:\Users\Med Amine\Downloads\EcommerceProject\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\adminTabbedPage.xaml.g.cs
+C:\Users\Med Amine\Downloads\EcommerceProject\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Med Amine\Downloads\EcommerceProject\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Med Amine\Downloads\EcommerceProject\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\CartPage.xaml.g.cs
+C:\Users\Med Amine\Downloads\EcommerceProject\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+C:\Users\Med Amine\Downloads\EcommerceProject\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Users\Med Amine\Downloads\EcommerceProject\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\ProductDetailsPage.xaml.g.cs
+C:\Users\Med Amine\Downloads\EcommerceProject\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\RegisterPage.xaml.g.cs
+C:\Users\Med Amine\Downloads\EcommerceProject\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\Services\CartService.xaml.g.cs
+C:\Users\Med Amine\Downloads\EcommerceProject\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Med Amine\Downloads\EcommerceProject\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\Med Amine\Downloads\EcommerceProject\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\Med Amine\Downloads\EcommerceProject\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Med Amine\Downloads\EcommerceProject\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\Med Amine\Downloads\EcommerceProject\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\EcommerceProject.AssemblyInfoInputs.cache
+C:\Users\Med Amine\Downloads\EcommerceProject\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\EcommerceProject.AssemblyInfo.cs
+C:\Users\Med Amine\Downloads\EcommerceProject\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\EcommerceProject.csproj.CoreCompileInputs.cache
+C:\Users\Med Amine\Downloads\EcommerceProject\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Med Amine\Downloads\EcommerceProject\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\EcommerceProject.dll
+C:\Users\Med Amine\Downloads\EcommerceProject\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\ref\EcommerceProject.dll
+C:\Users\Med Amine\Downloads\EcommerceProject\EcommerceProject\EcommerceProject\obj\Debug\netstandard2.0\EcommerceProject.pdb

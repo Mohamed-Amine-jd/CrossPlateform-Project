@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EcommerceProject.HomePage">
+    <!-- Home Tab -->
+    <ContentPage Title="Home">
+        <StackLayout>
+            <!-- Header with Cart Button -->
+            <StackLayout Orientation="Horizontal" Padding="10" BackgroundColor="LightGray">
+                <Label Text="Welcome to Our Shop" 
+                       FontSize="20"
+                       HorizontalOptions="StartAndExpand" />
+                <Button Text="Cart" 
+                        BackgroundColor="Green" 
+                        TextColor="White" 
+                        Clicked="OnCartClicked" />
+            </StackLayout>
+
+            <!-- Products Grid -->
+            <CollectionView ItemsSource="{Binding ProductsList}"
+                            ItemsLayout="VerticalGrid, 2"
+                            Margin="10"
+                            SelectionMode="None">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <StackLayout Padding="5">
+                            <!-- Product Image -->
+                            <Frame BorderColor="LightGray" Padding="3">
+                                <Image Source="{Binding Image}" 
+                                       Aspect="AspectFill"
+                                       HeightRequest="100" />
+                            </Frame>
+
+                            <!-- Product Title -->
+                            <Label Text="{Binding Title}"
+                                   FontAttributes="Bold"
+                                   HorizontalOptions="Center" />
+
+                            <!-- Product Price -->
+                            <Label Text="{Binding Price, StringFormat='{0:C2}'}"
+                                   TextColor="Green"
+                                   HorizontalOptions="Center" />
+
+                            <!-- Show Details Button -->
+                            <Button Text="Details" 
+                                    BackgroundColor="Blue" 
+                                    TextColor="White" 
+                                    CommandParameter="{Binding .}" 
+                                    Clicked="OnDetailsClicked" />
+                        </StackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </StackLayout>
+    </ContentPage>
+
+    <!-- Other Tabs -->
+
+    <!-- Logout Tab -->
+    <ContentPage Title="Logout" IconImageSource="logout_icon.png">
+        <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+            <Button Text="Logout" BackgroundColor="Red" TextColor="White" Clicked="OnLogoutClicked" />
+        </StackLayout>
+    </ContentPage>
+</TabbedPage>

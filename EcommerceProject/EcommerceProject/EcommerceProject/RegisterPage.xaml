@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EcommerceProject.RegisterPage">
+
+    <ContentPage.Content>
+        <StackLayout Padding="30">
+            <Entry Placeholder="Name" x:Name="NameEntry" />
+            <!-- Phone Number Field -->
+            <Entry Placeholder="Phone Number" x:Name="PhoneEntry" Keyboard="Telephone" />
+            <Entry Placeholder="Email" x:Name="EmailEntry" Keyboard="Email" />
+            <Entry Placeholder="Password" x:Name="PasswordEntry" IsPassword="True" />
+            <Button Text="Register" Clicked="RegisterButton_Clicked" />
+
+            <!-- Label with TapGestureRecognizer for Login navigation -->
+            <Label Text="If you already have an account, Login now!"
+                   HorizontalOptions="Center"
+                   TextColor="Blue">
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="OnLoginTapped" />
+                </Label.GestureRecognizers>
+            </Label>
+
+
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>

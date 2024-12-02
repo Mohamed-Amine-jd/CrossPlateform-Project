@@ -1,0 +1,378 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GIGABYTE-INFOTEC\\Desktop\\crossProject\\xamarin_Project\\EcommerceProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A804D5E-6DE2-4E7E-BD27-77DB6C47B81C}|EcommerceProject\\EcommerceProject.csproj|c:\\users\\gigabyte-infotec\\desktop\\crossproject\\xamarin_project\\ecommerceproject\\ecommerceproject\\cartpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A804D5E-6DE2-4E7E-BD27-77DB6C47B81C}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\cartpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A804D5E-6DE2-4E7E-BD27-77DB6C47B81C}|EcommerceProject\\EcommerceProject.csproj|c:\\users\\gigabyte-infotec\\desktop\\crossproject\\xamarin_project\\ecommerceproject\\ecommerceproject\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A804D5E-6DE2-4E7E-BD27-77DB6C47B81C}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A804D5E-6DE2-4E7E-BD27-77DB6C47B81C}|EcommerceProject\\EcommerceProject.csproj|c:\\users\\gigabyte-infotec\\desktop\\crossproject\\xamarin_project\\ecommerceproject\\ecommerceproject\\models\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A804D5E-6DE2-4E7E-BD27-77DB6C47B81C}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\models\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A804D5E-6DE2-4E7E-BD27-77DB6C47B81C}|EcommerceProject\\EcommerceProject.csproj|c:\\users\\gigabyte-infotec\\desktop\\crossproject\\xamarin_project\\ecommerceproject\\ecommerceproject\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A804D5E-6DE2-4E7E-BD27-77DB6C47B81C}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A804D5E-6DE2-4E7E-BD27-77DB6C47B81C}|EcommerceProject\\EcommerceProject.csproj|c:\\users\\gigabyte-infotec\\desktop\\crossproject\\xamarin_project\\ecommerceproject\\ecommerceproject\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A804D5E-6DE2-4E7E-BD27-77DB6C47B81C}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A804D5E-6DE2-4E7E-BD27-77DB6C47B81C}|EcommerceProject\\EcommerceProject.csproj|c:\\users\\gigabyte-infotec\\desktop\\crossproject\\xamarin_project\\ecommerceproject\\ecommerceproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A804D5E-6DE2-4E7E-BD27-77DB6C47B81C}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A804D5E-6DE2-4E7E-BD27-77DB6C47B81C}|EcommerceProject\\EcommerceProject.csproj|c:\\users\\gigabyte-infotec\\desktop\\crossproject\\xamarin_project\\ecommerceproject\\ecommerceproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A804D5E-6DE2-4E7E-BD27-77DB6C47B81C}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A804D5E-6DE2-4E7E-BD27-77DB6C47B81C}|EcommerceProject\\EcommerceProject.csproj|c:\\users\\gigabyte-infotec\\desktop\\crossproject\\xamarin_project\\ecommerceproject\\ecommerceproject\\admintabbedpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A804D5E-6DE2-4E7E-BD27-77DB6C47B81C}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\admintabbedpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A804D5E-6DE2-4E7E-BD27-77DB6C47B81C}|EcommerceProject\\EcommerceProject.csproj|c:\\users\\gigabyte-infotec\\desktop\\crossproject\\xamarin_project\\ecommerceproject\\ecommerceproject\\cartpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{6A804D5E-6DE2-4E7E-BD27-77DB6C47B81C}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\cartpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A804D5E-6DE2-4E7E-BD27-77DB6C47B81C}|EcommerceProject\\EcommerceProject.csproj|c:\\users\\gigabyte-infotec\\desktop\\crossproject\\xamarin_project\\ecommerceproject\\ecommerceproject\\services\\commandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A804D5E-6DE2-4E7E-BD27-77DB6C47B81C}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\services\\commandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A804D5E-6DE2-4E7E-BD27-77DB6C47B81C}|EcommerceProject\\EcommerceProject.csproj|c:\\users\\gigabyte-infotec\\desktop\\crossproject\\xamarin_project\\ecommerceproject\\ecommerceproject\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A804D5E-6DE2-4E7E-BD27-77DB6C47B81C}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A804D5E-6DE2-4E7E-BD27-77DB6C47B81C}|EcommerceProject\\EcommerceProject.csproj|c:\\users\\gigabyte-infotec\\desktop\\crossproject\\xamarin_project\\ecommerceproject\\ecommerceproject\\services\\cartservicee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A804D5E-6DE2-4E7E-BD27-77DB6C47B81C}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\services\\cartservicee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A804D5E-6DE2-4E7E-BD27-77DB6C47B81C}|EcommerceProject\\EcommerceProject.csproj|c:\\users\\gigabyte-infotec\\desktop\\crossproject\\xamarin_project\\ecommerceproject\\ecommerceproject\\services\\cartservice.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A804D5E-6DE2-4E7E-BD27-77DB6C47B81C}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\services\\cartservice.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A804D5E-6DE2-4E7E-BD27-77DB6C47B81C}|EcommerceProject\\EcommerceProject.csproj|c:\\users\\gigabyte-infotec\\desktop\\crossproject\\xamarin_project\\ecommerceproject\\ecommerceproject\\viewmodels\\itemsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A804D5E-6DE2-4E7E-BD27-77DB6C47B81C}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\viewmodels\\itemsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A804D5E-6DE2-4E7E-BD27-77DB6C47B81C}|EcommerceProject\\EcommerceProject.csproj|c:\\users\\gigabyte-infotec\\desktop\\crossproject\\xamarin_project\\ecommerceproject\\ecommerceproject\\views\\itemspage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{6A804D5E-6DE2-4E7E-BD27-77DB6C47B81C}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\views\\itemspage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A804D5E-6DE2-4E7E-BD27-77DB6C47B81C}|EcommerceProject\\EcommerceProject.csproj|c:\\users\\gigabyte-infotec\\desktop\\crossproject\\xamarin_project\\ecommerceproject\\ecommerceproject\\checkoutcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A804D5E-6DE2-4E7E-BD27-77DB6C47B81C}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\checkoutcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A804D5E-6DE2-4E7E-BD27-77DB6C47B81C}|EcommerceProject\\EcommerceProject.csproj|c:\\users\\gigabyte-infotec\\desktop\\crossproject\\xamarin_project\\ecommerceproject\\ecommerceproject\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A804D5E-6DE2-4E7E-BD27-77DB6C47B81C}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A804D5E-6DE2-4E7E-BD27-77DB6C47B81C}|EcommerceProject\\EcommerceProject.csproj|c:\\users\\gigabyte-infotec\\desktop\\crossproject\\xamarin_project\\ecommerceproject\\ecommerceproject\\productdetailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A804D5E-6DE2-4E7E-BD27-77DB6C47B81C}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\productdetailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A804D5E-6DE2-4E7E-BD27-77DB6C47B81C}|EcommerceProject\\EcommerceProject.csproj|c:\\users\\gigabyte-infotec\\desktop\\crossproject\\xamarin_project\\ecommerceproject\\ecommerceproject\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A804D5E-6DE2-4E7E-BD27-77DB6C47B81C}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A804D5E-6DE2-4E7E-BD27-77DB6C47B81C}|EcommerceProject\\EcommerceProject.csproj|c:\\users\\gigabyte-infotec\\desktop\\crossproject\\xamarin_project\\ecommerceproject\\ecommerceproject\\homepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{6A804D5E-6DE2-4E7E-BD27-77DB6C47B81C}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\homepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 191,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\GIGABYTE-INFOTEC\\Desktop\\crossProject\\xamarin_Project\\EcommerceProject\\EcommerceProject\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE-INFOTEC\\Desktop\\crossProject\\xamarin_Project\\EcommerceProject\\EcommerceProject\\Models\\User.cs",
+              "RelativeToolTip": "EcommerceProject\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T22:55:40.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\GIGABYTE-INFOTEC\\Desktop\\crossProject\\xamarin_Project\\EcommerceProject\\EcommerceProject\\Views\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Views\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE-INFOTEC\\Desktop\\crossProject\\xamarin_Project\\EcommerceProject\\EcommerceProject\\Views\\LoginPage.xaml.cs",
+              "RelativeToolTip": "EcommerceProject\\Views\\LoginPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T22:55:25.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\GIGABYTE-INFOTEC\\Desktop\\crossProject\\xamarin_Project\\EcommerceProject\\EcommerceProject\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE-INFOTEC\\Desktop\\crossProject\\xamarin_Project\\EcommerceProject\\EcommerceProject\\LoginPage.xaml.cs*",
+              "RelativeToolTip": "EcommerceProject\\LoginPage.xaml.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T22:54:46.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\GIGABYTE-INFOTEC\\Desktop\\crossProject\\xamarin_Project\\EcommerceProject\\EcommerceProject\\Models\\Command.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Models\\Command.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE-INFOTEC\\Desktop\\crossProject\\xamarin_Project\\EcommerceProject\\EcommerceProject\\Models\\Command.cs",
+              "RelativeToolTip": "EcommerceProject\\Models\\Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:40:05.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommandService.cs",
+              "DocumentMoniker": "C:\\Users\\GIGABYTE-INFOTEC\\Desktop\\crossProject\\xamarin_Project\\EcommerceProject\\EcommerceProject\\Services\\CommandService.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Services\\CommandService.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE-INFOTEC\\Desktop\\crossProject\\xamarin_Project\\EcommerceProject\\EcommerceProject\\Services\\CommandService.cs",
+              "RelativeToolTip": "EcommerceProject\\Services\\CommandService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:36:05.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CartServicee.cs",
+              "DocumentMoniker": "C:\\Users\\GIGABYTE-INFOTEC\\Desktop\\crossProject\\xamarin_Project\\EcommerceProject\\EcommerceProject\\Services\\CartServicee.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Services\\CartServicee.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE-INFOTEC\\Desktop\\crossProject\\xamarin_Project\\EcommerceProject\\EcommerceProject\\Services\\CartServicee.cs",
+              "RelativeToolTip": "EcommerceProject\\Services\\CartServicee.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAYwEUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:10:01.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\GIGABYTE-INFOTEC\\Desktop\\crossProject\\xamarin_Project\\EcommerceProject\\EcommerceProject\\CartPage.xaml.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\CartPage.xaml.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE-INFOTEC\\Desktop\\crossProject\\xamarin_Project\\EcommerceProject\\EcommerceProject\\CartPage.xaml.cs*",
+              "RelativeToolTip": "EcommerceProject\\CartPage.xaml.cs*",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAuwE4AAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:07:59.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\GIGABYTE-INFOTEC\\Desktop\\crossProject\\xamarin_Project\\EcommerceProject\\EcommerceProject\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE-INFOTEC\\Desktop\\crossProject\\xamarin_Project\\EcommerceProject\\EcommerceProject\\Services\\ApiService.cs",
+              "RelativeToolTip": "EcommerceProject\\Services\\ApiService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAYwDMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T22:56:14.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\GIGABYTE-INFOTEC\\Desktop\\crossProject\\xamarin_Project\\EcommerceProject\\EcommerceProject\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE-INFOTEC\\Desktop\\crossProject\\xamarin_Project\\EcommerceProject\\EcommerceProject\\HomePage.xaml.cs",
+              "RelativeToolTip": "EcommerceProject\\HomePage.xaml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAQwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:08:53.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartPage.xaml",
+              "DocumentMoniker": "C:\\Users\\GIGABYTE-INFOTEC\\Desktop\\crossProject\\xamarin_Project\\EcommerceProject\\EcommerceProject\\CartPage.xaml",
+              "RelativeDocumentMoniker": "EcommerceProject\\CartPage.xaml",
+              "ToolTip": "C:\\Users\\GIGABYTE-INFOTEC\\Desktop\\crossProject\\xamarin_Project\\EcommerceProject\\EcommerceProject\\CartPage.xaml",
+              "RelativeToolTip": "EcommerceProject\\CartPage.xaml",
+              "ViewState": "AgIAACsAAAAAAAAAAADwvzcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T21:08:05.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CartService.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\GIGABYTE-INFOTEC\\Desktop\\crossProject\\xamarin_Project\\EcommerceProject\\EcommerceProject\\Services\\CartService.xaml.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Services\\CartService.xaml.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE-INFOTEC\\Desktop\\crossProject\\xamarin_Project\\EcommerceProject\\EcommerceProject\\Services\\CartService.xaml.cs",
+              "RelativeToolTip": "EcommerceProject\\Services\\CartService.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:11:21.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CheckoutCommand.cs",
+              "DocumentMoniker": "C:\\Users\\GIGABYTE-INFOTEC\\Desktop\\crossProject\\xamarin_Project\\EcommerceProject\\EcommerceProject\\CheckoutCommand.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\CheckoutCommand.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE-INFOTEC\\Desktop\\crossProject\\xamarin_Project\\EcommerceProject\\EcommerceProject\\CheckoutCommand.cs",
+              "RelativeToolTip": "EcommerceProject\\CheckoutCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:50:18.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\GIGABYTE-INFOTEC\\Desktop\\crossProject\\xamarin_Project\\EcommerceProject\\EcommerceProject\\HomePage.xaml",
+              "RelativeDocumentMoniker": "EcommerceProject\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\GIGABYTE-INFOTEC\\Desktop\\crossProject\\xamarin_Project\\EcommerceProject\\EcommerceProject\\HomePage.xaml",
+              "RelativeToolTip": "EcommerceProject\\HomePage.xaml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAQwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T21:09:02.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductDetailsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\GIGABYTE-INFOTEC\\Desktop\\crossProject\\xamarin_Project\\EcommerceProject\\EcommerceProject\\ProductDetailsPage.xaml.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\ProductDetailsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE-INFOTEC\\Desktop\\crossProject\\xamarin_Project\\EcommerceProject\\EcommerceProject\\ProductDetailsPage.xaml.cs",
+              "RelativeToolTip": "EcommerceProject\\ProductDetailsPage.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:07:29.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 209,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "adminTabbedPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\GIGABYTE-INFOTEC\\Desktop\\crossProject\\xamarin_Project\\EcommerceProject\\EcommerceProject\\adminTabbedPage.xaml.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\adminTabbedPage.xaml.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE-INFOTEC\\Desktop\\crossProject\\xamarin_Project\\EcommerceProject\\EcommerceProject\\adminTabbedPage.xaml.cs",
+              "RelativeToolTip": "EcommerceProject\\adminTabbedPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T22:33:41.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ItemsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\GIGABYTE-INFOTEC\\Desktop\\crossProject\\xamarin_Project\\EcommerceProject\\EcommerceProject\\Views\\ItemsPage.xaml",
+              "RelativeDocumentMoniker": "EcommerceProject\\Views\\ItemsPage.xaml",
+              "ToolTip": "C:\\Users\\GIGABYTE-INFOTEC\\Desktop\\crossProject\\xamarin_Project\\EcommerceProject\\EcommerceProject\\Views\\ItemsPage.xaml",
+              "RelativeToolTip": "EcommerceProject\\Views\\ItemsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T21:58:39.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ItemsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\GIGABYTE-INFOTEC\\Desktop\\crossProject\\xamarin_Project\\EcommerceProject\\EcommerceProject\\ViewModels\\ItemsViewModel.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\ViewModels\\ItemsViewModel.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE-INFOTEC\\Desktop\\crossProject\\xamarin_Project\\EcommerceProject\\EcommerceProject\\ViewModels\\ItemsViewModel.cs",
+              "RelativeToolTip": "EcommerceProject\\ViewModels\\ItemsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAACB/wBsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:46:57.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\GIGABYTE-INFOTEC\\Desktop\\crossProject\\xamarin_Project\\EcommerceProject\\EcommerceProject\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE-INFOTEC\\Desktop\\crossProject\\xamarin_Project\\EcommerceProject\\EcommerceProject\\Models\\Item.cs",
+              "RelativeToolTip": "EcommerceProject\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:43:34.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\GIGABYTE-INFOTEC\\Desktop\\crossProject\\xamarin_Project\\EcommerceProject\\EcommerceProject\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE-INFOTEC\\Desktop\\crossProject\\xamarin_Project\\EcommerceProject\\EcommerceProject\\Models\\Product.cs",
+              "RelativeToolTip": "EcommerceProject\\Models\\Product.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA/wAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:17:04.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\GIGABYTE-INFOTEC\\Desktop\\crossProject\\xamarin_Project\\EcommerceProject\\EcommerceProject\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE-INFOTEC\\Desktop\\crossProject\\xamarin_Project\\EcommerceProject\\EcommerceProject\\Models\\CartItem.cs",
+              "RelativeToolTip": "EcommerceProject\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:13:09.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
